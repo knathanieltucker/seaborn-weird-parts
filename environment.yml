@@ -1,0 +1,7 @@
+name: sailorman
+dependencies:
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - seaborn
