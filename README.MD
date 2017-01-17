@@ -1,3 +1,7 @@
+## Youtube
+
+Link to the [Youtube Tutorial](https://www.youtube.com/playlist?list=PLgJhDSE2ZLxYlhQx0UfVlnF1F7OWF-9rp).
+
 ## Setup
 
 To begin [install anaconda](https://www.continuum.io/downloads).
